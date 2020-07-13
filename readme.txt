@@ -5,4 +5,4 @@ Creating a new branch is quick AND simple.
 
 second modification, dev branch.
 
-on bug fix .
+bug fix: Git is a free software.
