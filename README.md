@@ -1,1 +1,2 @@
-this is a big project.
+# note
+personall notebook
